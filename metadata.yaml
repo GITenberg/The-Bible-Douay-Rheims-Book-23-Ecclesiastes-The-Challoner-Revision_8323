@@ -1,0 +1,17 @@
+_repo: The-Bible-Douay-Rheims-Book-23-Ecclesiastes-The-Challoner-Revision_8323
+description: ''
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8323'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Ecclesiastes'
+- !lcc 'BS'
+title: 'The Bible, Douay-Rheims, Book 23: Ecclesiastes
+
+  The Challoner Revision'
+url: http://www.gutenberg.org/ebooks/8323
